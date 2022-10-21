@@ -1,39 +1,39 @@
 {
   "packages": [
     {
-      "name": "INEXSTM32",
+      "name": "INEX STM32",
       "websiteURL": "http://www.inex.co.th",
-      "maintainer": "INEXSTM32",
+      "maintainer": "INEX STM32 boards",
       "email": "dev@inex.co.th",
       "help": {
         "online": "http://www.inex.co.th"
       },
       "platforms": [
         {
-          "name": "INEXSTM32",
+          "name": "INEX STM32",
           "architecture": "stm32",
           "version": "2.3.0",
           "category": "Contributed",
           "url": "http://www.inex.co.th/store/arduino_stm32_addon/INEXSTM32-2.3.0.tar.bz2",
           "archiveFileName": "INEXSTM32-2.3.0.tar.bz2",
-          "checksum": "SHA-256:dad589054bc51b75b125877c08607afd3b9e9386a49106cd0164adfc299c4915",
-          "size": "42111371",
+          "checksum": "SHA-256:f4810b962e856049a584f33762e56a81f328de90d6988a742cf2e622f6bfe3c1",
+          "size": "42110293",
           "boards": [
             {"name": "POP-32"}
           ],
           "toolsDependencies": [
             {
-              "packager": "INEXSTM32",
+              "packager": "INEX STM32",
               "name": "xpack-arm-none-eabi-gcc",
               "version": "10.3.1-2.3"
             },
             {
-              "packager": "INEXSTM32",
+              "packager": "INEX STM32",
               "name": "STM32Tools",
               "version": "2.1.1"
             },
             {
-              "packager": "INEXSTM32",
+              "packager": "INEX STM32",
               "name": "CMSIS",
               "version": "5.7.0"
             }
