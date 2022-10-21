@@ -3,7 +3,7 @@
 Last update :
 
 21 Oct 2022  
- : first preview for POP-32 (Still development, DO NOT USE !!!)
+ : first preview for POP-32 (Still development and MANY MANY BUGS, DO NOT USE !!!)
 
 
 
