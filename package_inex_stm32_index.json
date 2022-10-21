@@ -3,14 +3,14 @@
     {
       "name": "INEXSTM32",
       "websiteURL": "http://www.inex.co.th",
-      "maintainer": "INEXSTM32",
+      "maintainer": "INEX",
       "email": "dev@inex.co.th",
       "help": {
         "online": "http://www.inex.co.th"
       },
       "platforms": [
         {
-          "name": "INEXSTM32",
+          "name": "INEX STM32",
           "architecture": "stm32",
           "version": "2.3.0",
           "category": "Contributed",
