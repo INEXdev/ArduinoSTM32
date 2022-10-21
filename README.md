@@ -3,7 +3,24 @@
 Last update :
 
 21 Oct 2022  
- : first preview for POP-32
+ : first preview for POP-32 (Still development, DO NOT USE !!!)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 INEX Arduino STM32 core addon  
 work on Arduino IDE 1.8.x https://www.arduino.cc/en/software  
