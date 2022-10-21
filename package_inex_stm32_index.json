@@ -3,7 +3,7 @@
     {
       "name": "INEXSTM32",
       "websiteURL": "http://www.inex.co.th",
-      "maintainer": "INEX STM32 boards",
+      "maintainer": "INEXSTM32",
       "email": "dev@inex.co.th",
       "help": {
         "online": "http://www.inex.co.th"
