@@ -19,7 +19,7 @@
           "checksum": "SHA-256:ccfbf364892adbfa54d94d6a430703c099129760c6b92f132379631903737cd9",
           "size": "42112714",
           "boards": [
-            {"name": "POP-32"},
+            {"name": "POP-32"}
           ],
           "toolsDependencies": [
             {
