@@ -38,7 +38,7 @@ use HID driver, no additional driver needed
 Open Arduino, menu File -> Preferences  
 look at the bottom > Addition Boards Manager URL then copy below address on field  
 
-https://raw.githubusercontent.com/INEXdev/ArduinoSTM32/main/package_inex_stm32_index.json  
+https://raw.githubusercontent.com/INEXdev/ArduinoSTM32/main/package_inex_stm32_index. 
 
 and IMPORTANT! "REMOVE Checkbox "Verify code after upload"
 and also disble "Check for updates on startup" keep working on this version.
