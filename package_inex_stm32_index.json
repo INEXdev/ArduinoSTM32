@@ -1,9 +1,9 @@
 {
   "packages": [
     {
-      "name": "INEX STM32",
+      "name": "INEX STM32 boards",
       "websiteURL": "http://www.inex.co.th",
-      "maintainer": "INEX STM32 boards",
+      "maintainer": "INEX",
       "email": "dev@inex.co.th",
       "help": {
         "online": "http://www.inex.co.th"
