@@ -2,12 +2,16 @@
 
 Last update :
 
+20 Nov 2022  
+ : Update Libraries for INEX's POP-32 board (In development !!!)
+ - If you had ever install previous date version, please remove and re-install for new integrity update again.
+
 22 Oct 2022  
  : first preview for INEX's POP-32 board (In development !!!)
 
 INEX Arduino STM32 core addon  
 work on Arduino IDE 1.8.x https://www.arduino.cc/en/software  
-for 64bit Windows user can try new Arduino IDE 2.0 RC
+for 64bit Windows user can try new Arduino IDE 2.0.2
 (In development, testing, If any error please inform me at dev[at]inex.co.th)  
 
 # Board support
