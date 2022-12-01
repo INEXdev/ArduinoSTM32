@@ -2,9 +2,12 @@
 
 Last update :
 
-20 Nov 2022  
+1 Dec 2022  
  : Update Libraries for INEX's POP-32 board (In development !!!)
  - If you had ever install previous date version, please remove and re-install for new integrity update again.
+
+20 Nov 2022  
+ : Update Libraries for INEX's POP-32 board (In development !!!)
 
 22 Oct 2022  
  : first preview for INEX's POP-32 board (In development !!!)
