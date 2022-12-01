@@ -16,8 +16,8 @@
           "category": "Contributed",
           "url": "http://www.inex.co.th/store/arduino_stm32_addon/INEXSTM32-2.3.0.tar.bz2",
           "archiveFileName": "INEXSTM32-2.3.0.tar.bz2",
-          "checksum": "SHA-256:a27376b5576adc88781f28c379a2fb43121648a928d60b6c6fe5ff513934b7d3",
-          "size": "42112139",
+          "checksum": "SHA-256:d38f3918e65fd2632c0ecda1fef141179ca7358796c369b9c44782b659248e60",
+          "size": "42114228",
           "boards": [
             {"name": "POP-32"}
           ],
