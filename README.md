@@ -2,6 +2,9 @@
 
 Last update :
 
+5 Dec 2022  
+ : Force PLL system clock initialize 72MHz and USB active.
+
 1 Dec 2022  
  : Update Libraries for INEX's POP-32 board (In development !!!)
  - If you had ever install previous date version, please remove and re-install for new integrity update again.
