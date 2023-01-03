@@ -38,7 +38,37 @@
               "version": "5.7.0"
             }
           ]
-        }
+        },
+        {
+          "name": "INEX_STM32",
+          "architecture": "stm32",
+          "version": "2.4.0",
+          "category": "Contributed",
+          "url": "http://www.inex.co.th/store/arduino_stm32_addon/INEXSTM32-2.4.0.tar.bz2",
+          "archiveFileName": "INEXSTM32-2.4.0.tar.bz2",
+          "checksum": "SHA-256:367084ce798dfb59842eec80f629595e3ca0d9e710ffff127906f6ce99af6ca9",
+          "size": "42568647",
+          "boards": [
+            {"name": "POP-32"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "INEX_STM32",
+              "name": "xpack-arm-none-eabi-gcc",
+              "version": "10.3.1-2.3"
+            },
+            {
+              "packager": "INEX_STM32",
+              "name": "STM32Tools",
+              "version": "2.1.1"
+            },
+            {
+              "packager": "INEX_STM32",
+              "name": "CMSIS",
+              "version": "5.7.0"
+            }
+          ]
+        }		
       ],
       "tools": [
         {
