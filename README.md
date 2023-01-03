@@ -2,9 +2,9 @@
 
 Last update :
 
-3 Jan 2023
+3 Jan 2023  
  : update internal STM32 core to 2.4.0
-
+ 
 5 Dec 2022  
  : Force PLL system clock initialize 72MHz and USB active.
 
