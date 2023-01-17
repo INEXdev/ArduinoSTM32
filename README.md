@@ -3,10 +3,11 @@
 Last update :
 
 17 Jan 2023  
- : <Lbrary> POP32.h update, fixed PWM motor glitch on repetitive command  
+ : (Library) POP32.h update, fixed PWM motor glitch on repetitive command  
+ : (Upload system) introduce upload method using STMicroelectronics ST-Link V2 SWD  
  
 3 Jan 2023  
- : <Update TEST> update internal STM32 core to 2.4.0
+ : (Update TEST) update internal STM32 core to 2.4.0
  
 5 Dec 2022  
  : Force PLL system clock initialize 72MHz and USB active.
