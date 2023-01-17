@@ -3,7 +3,7 @@
 Last update :
 
 17 Jan 2023  
- : <Update> clean PWM repetitive glitch on motor command
+ : <POP-32 library update> clean PWM repetitive glitch on motor command
  
 3 Jan 2023  
  : <Update TEST> update internal STM32 core to 2.4.0
