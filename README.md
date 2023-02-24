@@ -1,6 +1,8 @@
 # INEX Arduino STM32 core addon for INEX's STM32 products
 
 Last update :
+23 Feb 2023
+ : (library) POP32.h update, add 10 sec. Booting timeout if hold SW_A on start (for HID Boot recovery)
 
 17 Jan 2023  
  : (Library) POP32.h update, fixed PWM motor glitch on repetitive command  
