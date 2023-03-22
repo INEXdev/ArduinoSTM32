@@ -33,7 +33,8 @@ for 64bit Windows user can try new Arduino IDE 2.0.2
 POP-32  
 
 # USB Driver
-use HID driver, no additional driver needed
+on HID mode, no additional driver needed.
+on SWD mode, using ST Microelectronic's STM32 CubeProgrammer driver.
 
 # Instruction
 (Remark: Fast internet connection and large files transfer required for this procedure)  
