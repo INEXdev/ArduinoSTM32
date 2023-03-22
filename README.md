@@ -34,6 +34,7 @@ POP-32
 
 # USB Driver
 on HID mode, no additional driver needed.
+
 on SWD mode, using ST Microelectronic's STM32 CubeProgrammer driver.
 
 # Instruction
