@@ -1,6 +1,12 @@
 # INEX Arduino STM32 core addon for INEX's STM32 products
 
 Last update :
+28 Sep 2024 : Annoucement all users for next update Arduino Core STM32 Core system to version 2.8.x , which no longer support on Arduino 1.8.x (and also 32bit PC machine)
+
+On next, need migrate to Arduino 2.x and no old Arduino 1.8.x (which cause Arduino AppData folder conflict issues)
+
+If not , select not update and still on 2.4.0 POP-32 library set instead, Regards.
+
 23 Feb 2023
  : (library) POP32.h update, add 10 sec. Booting timeout if hold SW_A on start (for HID Boot recovery)
 
