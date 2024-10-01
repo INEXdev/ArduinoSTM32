@@ -2,7 +2,7 @@
 
 Last update :
 
-1 Oct 2024 : Temporary workaround, change packed file to alternate host (Issue : Host response Forbidden 403).
+1 Oct 2024 : Fix issue : Host response Forbidden 403, all OK.
 
 28 Sep 2024 : Annoucement all users for next update Arduino Core STM32 to version 2.8.x , which no longer support on Arduino 1.8.x (and also 32bit PC machine).
 Eligible users uninstall old Arduino 1.8.x before (which cause Arduino AppData folder conflict issues) and install new Arduino 2.x.
