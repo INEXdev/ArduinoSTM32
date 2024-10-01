@@ -1,6 +1,7 @@
 # INEX Arduino STM32 core addon for INEX's STM32 products
 
 Last update :
+
 1 Oct 2024 : Temporary workaround, change packed file to alternate host (Issue : Host response Forbidden 403).
 
 28 Sep 2024 : Annoucement all users for next update Arduino Core STM32 Core system to version 2.8.x , which no longer support on Arduino 1.8.x (and also 32bit PC machine)
