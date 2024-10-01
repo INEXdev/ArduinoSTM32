@@ -7,6 +7,15 @@ Last update :
 28 Sep 2024 : Annoucement all users for next update Arduino Core STM32 to version 2.8.x , which no longer support on Arduino 1.8.x (and also 32bit PC machine).
 Eligible users uninstall old Arduino 1.8.x before (which cause Arduino AppData folder conflict issues) and install new Arduino 2.x.
 If not , select not update and still on 2.4.0 POP-32 library sets.
+ 
+ ** Note for previous user who install old version
+ 
+    You need to Uninstall older 1.8.5 and remove JSON address from Arduino->Preferences first,
+    then Close program and Open Arduino then replace new JSON address and OpenBoard Manager again
+    
+    -> [INEX_STM32 by INEX] and click install
+    
+    after installed again, it will be OK.
 
 23 Feb 2023
  : (library) POP32.h update, add 10 sec. Booting timeout if hold SW_A on start (for HID Boot recovery)
