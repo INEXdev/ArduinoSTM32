@@ -4,11 +4,9 @@ Last update :
 
 1 Oct 2024 : Temporary workaround, change packed file to alternate host (Issue : Host response Forbidden 403).
 
-28 Sep 2024 : Annoucement all users for next update Arduino Core STM32 Core system to version 2.8.x , which no longer support on Arduino 1.8.x (and also 32bit PC machine)
-
-On next, need migrate to Arduino 2.x and no old Arduino 1.8.x (which cause Arduino AppData folder conflict issues)
-
-If not , select not update and still on 2.4.0 POP-32 library set instead, Regards.
+28 Sep 2024 : Annoucement all users for next update Arduino Core STM32 to version 2.8.x , which no longer support on Arduino 1.8.x (and also 32bit PC machine).
+Eligible users uninstall old Arduino 1.8.x before (which cause Arduino AppData folder conflict issues) and install new Arduino 2.x.
+If not , select not update and still on 2.4.0 POP-32 library sets.
 
 23 Feb 2023
  : (library) POP32.h update, add 10 sec. Booting timeout if hold SW_A on start (for HID Boot recovery)
