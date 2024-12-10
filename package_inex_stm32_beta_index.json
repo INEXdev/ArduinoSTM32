@@ -113,7 +113,7 @@
           "url": "http://www.inex.co.th/store/arduino_stm32_addon/INEXSTM32-2.9.0.tar.bz2",
           "archiveFileName": "INEXSTM32-2.9.0.tar.bz2",
           "checksum": "SHA-256:b7a336d8896c167358f37cd4998b4f5e699da96570309e2de4f3174b2caac4bb",
-          "size": "42590502",
+          "size": "42607492",
           "boards": [
             {"name": "POP-32"},
             {"name": "POP-32 PRO"}
