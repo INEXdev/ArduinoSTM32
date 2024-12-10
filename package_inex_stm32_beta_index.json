@@ -97,6 +97,47 @@
               "packager": "INEX_STM32",
               "name": "CMSIS",
               "version": "5.9.0"
+            },
+            {
+              "packager": "STMicroelectronics",
+              "name": "STM32_SVD",
+              "version": "1.15.1"
+            }
+          ]
+        },
+        {
+          "name": "INEX_STM32",
+          "architecture": "stm32",
+          "version": "2.9.0",
+          "category": "Contributed",
+          "url": "http://www.inex.co.th/store/arduino_stm32_addon/INEXSTM32-2.9.0.tar.bz2",
+          "archiveFileName": "INEXSTM32-2.9.0.tar.bz2",
+          "checksum": "SHA-256:3fe206e5ef36d37c9bb5d1379f7d259cc676a2f94af0c178cb116a5ca5fe7bad",
+          "size": "42590502",
+          "boards": [
+            {"name": "POP-32"},
+            {"name": "POP-32 PRO"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "INEX_STM32",
+              "name": "xpack-arm-none-eabi-gcc",
+              "version": "13.2.1-1.1"
+            },
+            {
+              "packager": "INEX_STM32",
+              "name": "STM32Tools",
+              "version": "2.2.4"
+            },
+            {
+              "packager": "INEX_STM32",
+              "name": "CMSIS",
+              "version": "5.9.0"
+            },
+            {
+              "packager": "STMicroelectronics",
+              "name": "STM32_SVD",
+              "version": "1.16.0"
             }
           ]
         }		
@@ -353,7 +394,126 @@
               "size": "157436"
             }
           ]
-        }
+        },
+        {
+          "name": "STM32Tools",
+          "version": "2.2.4",
+          "systems":
+          [
+            {
+              "host": "i686-mingw32",
+              "url": "https://github.com/stm32duino/Arduino_Tools/releases/download/2.2.4/STM32Tools-2.2.4-windows.tar.bz2",
+              "archiveFileName": "STM32Tools-2.2.4-windows.tar.bz2",
+              "checksum": "SHA-256:7deb8dc135d1502b486bd9b63f30051d4ae86486591db2cdcd7af221a783b4b6",
+              "size": "2423028"
+            },
+            {
+              "host": "x86_64-apple-darwin",
+              "url": "https://github.com/stm32duino/Arduino_Tools/releases/download/2.2.4/STM32Tools-2.2.4-mac.tar.bz2",
+              "archiveFileName": "STM32Tools-2.2.4-mac.tar.bz2",
+              "checksum": "SHA-256:3af40861b527e3323ce284dc88f6990e581691e56c6f98dfd3687cef4cbb4310",
+              "size": "103686"
+            },
+            {
+              "host": "x86_64-pc-linux-gnu",
+              "url": "https://github.com/stm32duino/Arduino_Tools/releases/download/2.2.4/STM32Tools-2.2.4-linux.tar.bz2",
+              "archiveFileName": "STM32Tools-2.2.4-linux.tar.bz2",
+              "checksum": "SHA-256:6ebdc25c1fb7fc1d4f2509db82a6bd617e0b9307cb9192994db7184a8f6e209c",
+              "size": "157477"
+            },
+            {
+              "host": "i686-pc-linux-gnu",
+              "url": "https://github.com/stm32duino/Arduino_Tools/releases/download/2.2.4/STM32Tools-2.2.4-linux.tar.bz2",
+              "archiveFileName": "STM32Tools-2.2.4-linux.tar.bz2",
+              "checksum": "SHA-256:6ebdc25c1fb7fc1d4f2509db82a6bd617e0b9307cb9192994db7184a8f6e209c",
+              "size": "157477"
+            }
+          ]
+        },
+       {
+          "name": "STM32_SVD",
+          "version": "1.15.1",
+          "systems":
+          [
+            {
+              "host": "arm-linux-gnueabihf",
+              "url": "https://github.com/stm32duino/stm32_svd/releases/download/1.15.1/STM32_SVD-1.15.1.tar.bz2",
+              "archiveFileName": "STM32_SVD-1.15.1.tar.bz2",
+              "checksum": "SHA-256:f37b918e7ea2dbc818492a07ba35b8b3d287d4473794a383e876656b442b5fcc",
+              "size": "12998735"
+            },
+            {
+              "host": "aarch64-linux-gnu",
+              "url": "https://github.com/stm32duino/stm32_svd/releases/download/1.15.1/STM32_SVD-1.15.1.tar.bz2",
+              "archiveFileName": "STM32_SVD-1.15.1.tar.bz2",
+              "checksum": "SHA-256:f37b918e7ea2dbc818492a07ba35b8b3d287d4473794a383e876656b442b5fcc",
+              "size": "12998735"
+            },
+            {
+              "host": "i686-mingw32",
+              "url": "https://github.com/stm32duino/stm32_svd/releases/download/1.15.1/STM32_SVD-1.15.1.tar.bz2",
+              "archiveFileName": "STM32_SVD-1.15.1.tar.bz2",
+              "checksum": "SHA-256:f37b918e7ea2dbc818492a07ba35b8b3d287d4473794a383e876656b442b5fcc",
+              "size": "12998735"
+            },
+            {
+              "host": "x86_64-apple-darwin",
+              "url": "https://github.com/stm32duino/stm32_svd/releases/download/1.15.1/STM32_SVD-1.15.1.tar.bz2",
+              "archiveFileName": "STM32_SVD-1.15.1.tar.bz2",
+              "checksum": "SHA-256:f37b918e7ea2dbc818492a07ba35b8b3d287d4473794a383e876656b442b5fcc",
+              "size": "12998735"
+            },
+            {
+              "host": "x86_64-pc-linux-gnu",
+              "url": "https://github.com/stm32duino/stm32_svd/releases/download/1.15.1/STM32_SVD-1.15.1.tar.bz2",
+              "archiveFileName": "STM32_SVD-1.15.1.tar.bz2",
+              "checksum": "SHA-256:f37b918e7ea2dbc818492a07ba35b8b3d287d4473794a383e876656b442b5fcc",
+              "size": "12998735"
+            }
+          ]
+        },
+        {
+          "name": "STM32_SVD",
+          "version": "1.16.0",
+          "systems":
+          [
+            {
+              "host": "arm-linux-gnueabihf",
+              "url": "https://github.com/stm32duino/stm32_svd/releases/download/1.16.0/STM32_SVD-1.16.0.tar.bz2",
+              "archiveFileName": "STM32_SVD-1.16.0.tar.bz2",
+              "checksum": "SHA-256:c1e31bb701054f62e2cf4631b19956690d721e637f249ceb12e7ec2d5aef5832",
+              "size": "13758007"
+            },
+            {
+              "host": "aarch64-linux-gnu",
+              "url": "https://github.com/stm32duino/stm32_svd/releases/download/1.16.0/STM32_SVD-1.16.0.tar.bz2",
+              "archiveFileName": "STM32_SVD-1.16.0.tar.bz2",
+              "checksum": "SHA-256:c1e31bb701054f62e2cf4631b19956690d721e637f249ceb12e7ec2d5aef5832",
+              "size": "13758007"
+            },
+            {
+              "host": "i686-mingw32",
+              "url": "https://github.com/stm32duino/stm32_svd/releases/download/1.16.0/STM32_SVD-1.16.0.tar.bz2",
+              "archiveFileName": "STM32_SVD-1.16.0.tar.bz2",
+              "checksum": "SHA-256:c1e31bb701054f62e2cf4631b19956690d721e637f249ceb12e7ec2d5aef5832",
+              "size": "13758007"
+            },
+            {
+              "host": "x86_64-apple-darwin",
+              "url": "https://github.com/stm32duino/stm32_svd/releases/download/1.16.0/STM32_SVD-1.16.0.tar.bz2",
+              "archiveFileName": "STM32_SVD-1.16.0.tar.bz2",
+              "checksum": "SHA-256:c1e31bb701054f62e2cf4631b19956690d721e637f249ceb12e7ec2d5aef5832",
+              "size": "13758007"
+            },
+            {
+              "host": "x86_64-pc-linux-gnu",
+              "url": "https://github.com/stm32duino/stm32_svd/releases/download/1.16.0/STM32_SVD-1.16.0.tar.bz2",
+              "archiveFileName": "STM32_SVD-1.16.0.tar.bz2",
+              "checksum": "SHA-256:c1e31bb701054f62e2cf4631b19956690d721e637f249ceb12e7ec2d5aef5832",
+              "size": "13758007"
+            }
+          ]
+        }		
       ]
     }
   ]
