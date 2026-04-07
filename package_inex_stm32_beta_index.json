@@ -111,7 +111,8 @@
           "size": "42607492",
           "boards": [
             {"name": "POP-32"},
-            {"name": "POP-32 PRO"}
+            {"name": "POP-32 PRO"},
+            {"name": "Matrix-X"}
           ],
           "toolsDependencies": [
             {
